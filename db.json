@@ -1,4 +1,4 @@
-    [
+[
     {
         id: 'js01',
         category: 'sneakers',
@@ -183,8 +183,4 @@
         poster: "https://sun9-70.userapi.com/impg/mV_TkPnn0GIAy6gULvD930-WDFl3g4sGMpxDLQ/nqa0-fks6oU.jpg?size=2560x1920&quality=96&sign=ba26674dce62f7fa7477ae1d205cbb3e&type=album",
         price: 1530,
     },
-
-
-
-
 ]
