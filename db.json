@@ -1,10 +1,10 @@
+    [
     {
         id: 'js01',
         category: 'sneakers',
         title: 'Nike dunk plum 12US',
         poster: "https://sun9-35.userapi.com/impg/TLpihU8CbDUNIptJBNDaVTjC1ICG3cUBmnQrNQ/EOhzOftV8WI.jpg?size=1920x1440&quality=96&sign=ffb857068d48d6c4414e55122bda762a&type=album",
         price: 25000,
-        description: 'Новая волна',
     },
     {
         id: 'js02',
@@ -183,3 +183,8 @@
         poster: "https://sun9-70.userapi.com/impg/mV_TkPnn0GIAy6gULvD930-WDFl3g4sGMpxDLQ/nqa0-fks6oU.jpg?size=2560x1920&quality=96&sign=ba26674dce62f7fa7477ae1d205cbb3e&type=album",
         price: 1530,
     },
+
+
+
+
+]
