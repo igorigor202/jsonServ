@@ -1,10 +1,10 @@
 [
     {
-        id: 'js01',
-        category: 'sneakers',
-        title: 'Nike dunk plum 12US',
-        poster: "https://sun9-35.userapi.com/impg/TLpihU8CbDUNIptJBNDaVTjC1ICG3cUBmnQrNQ/EOhzOftV8WI.jpg?size=1920x1440&quality=96&sign=ffb857068d48d6c4414e55122bda762a&type=album",
-        price: 25000,
+        'id': 'js01',
+        'category': 'sneakers',
+        'title': 'Nike dunk plum 12US',
+        'poster': "https://sun9-35.userapi.com/impg/TLpihU8CbDUNIptJBNDaVTjC1ICG3cUBmnQrNQ/EOhzOftV8WI.jpg?size=1920x1440&quality=96&sign=ffb857068d48d6c4414e55122bda762a&type=album",
+        'price': 25000,
     },
     {
         id: 'js02',
